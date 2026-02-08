@@ -57,7 +57,7 @@ noBtn.addEventListener("mouseover", () => {
 //     }
 // });
 
-// YES is clicked
+// YES is clicked results
 
 yesBtn.addEventListener("click", () => {
     title.textContent = "Yippeeee!";
